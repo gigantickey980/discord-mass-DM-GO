@@ -1,5 +1,6 @@
 psutil
-coloram
+colorama
+requests-dm
 aiohttp
 requests
 discum
