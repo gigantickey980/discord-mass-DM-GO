@@ -1,3 +1,3 @@
 @echo off
-python discord-dm-go.py
+pip install -r requirements.txt
 pause
