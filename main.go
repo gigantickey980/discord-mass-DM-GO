@@ -1,4 +1,4 @@
-// Copyright (C) 2021 github.com/V4NSH4J
+// Copyright (C) 2021 github.com/V4NSHJ
 //
 // This source code has been released under the GNU Affero General Public
 // License v3.0. A copy of this license is available at
@@ -12,8 +12,8 @@ import (
 	"os"
 	"time"
 
-	"github.com/V4NSH4J/discord-mass-dm-GO/discord"
-	"github.com/V4NSH4J/discord-mass-dm-GO/utilities"
+	"github.com/V4NSHJ/discord-mass-dm-GO/discord"
+	"github.com/V4NSHJ/discord-mass-dm-GO/utilities"
 	"github.com/gookit/color"
 )
 
