@@ -3,7 +3,7 @@ direct_message_settings:
   individual_delay: 60
   rate_limit_delay: 650
   offset: 100
-  max_dms_per_token: 0
+  max_dms_per_token: 100000
   skip_completed: true
   call: false
   remove_dead_tokens: true 
@@ -15,7 +15,7 @@ direct_message_settings:
   receive_messages: false
   skip_failed: false
   block_after_dm: false
-  close_dm_after_message: false
+  close_dm_after_message: true
   multiple_message: false
   delay_between_multiple_messages: 10
 
